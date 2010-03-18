@@ -1,0 +1,32 @@
+C:\Sources\TriniGuard v3\TriniGuard\bin\Debug\TriniGuard3.exe.config
+C:\Sources\TriniGuard v3\TriniGuard\bin\Debug\SmoothProgressBar.resx
+C:\Sources\TriniGuard v3\TriniGuard\bin\Debug\SmoothProgressBar.vb
+C:\Sources\TriniGuard v3\TriniGuard\bin\Debug\TriniGuard3.exe
+C:\Sources\TriniGuard v3\TriniGuard\bin\Debug\TriniGuard3.pdb
+C:\Sources\TriniGuard v3\TriniGuard\bin\Debug\TriniGuard3.xml
+C:\Sources\TriniGuard v3\TriniGuard\obj\Debug\ResolveAssemblyReference.cache
+C:\Sources\TriniGuard v3\TriniGuard\obj\Debug\TriniGuard3.DlgConfig.resources
+C:\Sources\TriniGuard v3\TriniGuard\obj\Debug\TriniGuard3.FrmMain.resources
+C:\Sources\TriniGuard v3\TriniGuard\obj\Debug\TriniGuard3.Resources.resources
+C:\Sources\TriniGuard v3\TriniGuard\obj\Debug\TriniGuard3.SmoothProgressBar.resources
+C:\Sources\TriniGuard v3\TriniGuard\obj\Debug\TriniGuard3.AboutBox1.resources
+C:\Sources\TriniGuard v3\TriniGuard\obj\Debug\TriniGuard v3.vbproj.GenerateResource.Cache
+C:\Sources\TriniGuard v3\TriniGuard\obj\Debug\TriniGuard3.exe
+C:\Sources\TriniGuard v3\TriniGuard\obj\Debug\TriniGuard3.xml
+C:\Sources\TriniGuard v3\TriniGuard\obj\Debug\TriniGuard3.pdb
+C:\Sources\TriniGuard3\TriniGuard\bin\Debug\SmoothProgressBar.resx
+C:\Sources\TriniGuard3\TriniGuard\bin\Debug\SmoothProgressBar.vb
+C:\Sources\TriniGuard3\TriniGuard\bin\Debug\TriniGuard3.exe.config
+C:\Sources\TriniGuard3\TriniGuard\bin\Debug\TriniGuard3.exe
+C:\Sources\TriniGuard3\TriniGuard\bin\Debug\TriniGuard3.pdb
+C:\Sources\TriniGuard3\TriniGuard\bin\Debug\TriniGuard3.xml
+C:\Sources\TriniGuard3\TriniGuard\obj\Debug\ResolveAssemblyReference.cache
+C:\Sources\TriniGuard3\TriniGuard\obj\Debug\TriniGuard3.DlgConfig.resources
+C:\Sources\TriniGuard3\TriniGuard\obj\Debug\TriniGuard3.FrmMain.resources
+C:\Sources\TriniGuard3\TriniGuard\obj\Debug\TriniGuard3.Resources.resources
+C:\Sources\TriniGuard3\TriniGuard\obj\Debug\TriniGuard3.SmoothProgressBar.resources
+C:\Sources\TriniGuard3\TriniGuard\obj\Debug\TriniGuard3.AboutBox1.resources
+C:\Sources\TriniGuard3\TriniGuard\obj\Debug\TriniGuard v3.vbproj.GenerateResource.Cache
+C:\Sources\TriniGuard3\TriniGuard\obj\Debug\TriniGuard3.exe
+C:\Sources\TriniGuard3\TriniGuard\obj\Debug\TriniGuard3.xml
+C:\Sources\TriniGuard3\TriniGuard\obj\Debug\TriniGuard3.pdb
