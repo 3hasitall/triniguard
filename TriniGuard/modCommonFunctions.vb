@@ -88,17 +88,17 @@ Module ModCommonFunctions
             End Try
 
             'Send mail
-            If strMoney.Length < 1 And strItems.Length < 1 Then SendKeys.SendWait(".SENDMAIL " & strPlayer & " " & Convert.ToChar(34) & strSubject & Convert.ToChar(34) & " " & Convert.ToChar(34) & strMessage & Convert.ToChar(34) & " {ENTER}")
-            System.Threading.Thread.Sleep(100)
+            If strMoney.Length < 1 And strItems.Length < 1 Then SendKeys.SendWait(".SEND MAIL " & strPlayer & " " & Convert.ToChar(34) & strSubject & Convert.ToChar(34) & " " & Convert.ToChar(34) & strMessage & Convert.ToChar(34) & " {ENTER}")
+            System.Threading.Thread.Sleep(50)
 
             'Send Money
-            If strMoney.Length > 0 Then SendKeys.SendWait(".SENDMONEY " & strPlayer & " " & Convert.ToChar(34) & strSubject & Convert.ToChar(34) & " " & Convert.ToChar(34) & strMessage & Convert.ToChar(34) & " " & strMoney & " {ENTER}")
-            System.Threading.Thread.Sleep(100)
+            If strMoney.Length > 0 Then SendKeys.SendWait(".SEND MONEY " & strPlayer & " " & Convert.ToChar(34) & strSubject & Convert.ToChar(34) & " " & Convert.ToChar(34) & strMessage & Convert.ToChar(34) & " " & strMoney & " {ENTER}")
+            System.Threading.Thread.Sleep(50)
 
             'Send Items
-            If strItems.Length > 0 Then SendKeys.SendWait(".SENDITEM " & strPlayer & " " & Convert.ToChar(34) & strSubject & Convert.ToChar(34) & " " & Convert.ToChar(34) & strMessage & Convert.ToChar(34) & " " & strItems & " {ENTER}")
+            If strItems.Length > 0 Then SendKeys.SendWait(".SEND ITEM " & strPlayer & " " & Convert.ToChar(34) & strSubject & Convert.ToChar(34) & " " & Convert.ToChar(34) & strMessage & Convert.ToChar(34) & " " & strItems & " {ENTER}")
 
-            System.Threading.Thread.Sleep(100)
+            System.Threading.Thread.Sleep(50)
             SetWindowState(Realms(intRealmID).strCoreFile, windowState)
             FrmMain.Activate()
         Catch

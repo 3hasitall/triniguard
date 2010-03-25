@@ -6,20 +6,7 @@ TriniGuard3
 </name>
 </assembly>
 <members>
-<member name="P:TriniGuard3.My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:TriniGuard3.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:TriniGuard3.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member><member name="M:TriniGuard3.WindowsEnumerator.GetTopLevelWindows">
+<member name="M:TriniGuard3.WindowsEnumerator.GetTopLevelWindows">
 	<summary>
  Get all top-level window information
  </summary>
@@ -58,6 +45,19 @@ TriniGuard3
     Next child
  Next top
  </example>
+</member><member name="P:TriniGuard3.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TriniGuard3.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:TriniGuard3.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
 </member>
 </members>
 </doc>
